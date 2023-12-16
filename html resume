@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Resume</title>
+</head>
+
+<body>
+
+    <section>
+
+        <h2>Personal Information</h2>
+        <p>Name: Shreyash Amar Nirmal</p>
+        <p>DOB: 20/02./2002</p>
+        <p>Contact no: 7304037041</p>
+        <p>Email id:shreyashnirmal20@gmail.com</p>
+        <p>Address: Mhada colony, Powai, Mumbai-400072</p>
+
+    </section>
+
+    <section>
+
+        <h2>Objective</h2>
+        <p>Seeking a challenging position in a reputed organization where I can learn new skills,<br> expand my knowledge,
+            and leverage my learnings.To get an opportunity where I can <br>make the best of my potential and contribute to
+            the organization's growth.</p>
+
+    </section>
+
+    <section>
+
+        <h2>Personal Traits </h2>
+        <ul>
+            <li>Good Communication Skill</li>
+            <li>Content Writer</li>
+            <li>An Artist</li>
+            <li>Motivated</li>
+        </ul>
+
+    </section>
+
+    <section>
+
+        <h2>Education</h2>
+
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>Course</th>
+                    <th>College</th>
+                    <th>University </th>
+                    <th>Percentage</th>
+                    <th>Year of Passing</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <td>MCA</td>
+                    <td>KK Wagh</td>
+                    <td>Savitribai Phule University</td>
+                    <td>Persuing</td>
+                    <td>NA</td>
+                </tr>
+
+                <tr>
+                    <td>B.Sc Chemistry</td>
+                    <td>Bhavan's College</td>
+                    <td>Mumbai University</td>
+                    <td>76%</td>
+                    <td>2022</td>
+                </tr>
+
+                <tr>
+                    <td>HSC</td>
+                    <td>Bhavan's College</td>
+                    <td>Mumbai University</td>
+                    <td>60%</td>
+                    <td>2019</td>
+                </tr>
+
+                <tr>
+                    <td>MCA</td>
+                    <td>SSC</td>
+                    <td>Theresa High School</td>
+                    <td>85%</td>
+                    <td>2017</td>
+                </tr>
+
+            </tbody>
+        </table>
+
+        <section>
+            <h2>Extracurricular Activities</h2>
+            <ul>
+                <li>
+                    Participated in Inter college event
+                </li>
+                <li>
+                    Participated in Designing Competition at college level
+                </li>
+                <li>
+                    Worked as an Digital marketing intern in 3Mindsdigital Company
+                </li>
+            </ul>
+        </section>
